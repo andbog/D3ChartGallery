@@ -1,0 +1,26 @@
+/* * {
+  margin: 5px;
+  padding: 5px;
+}
+
+div {
+  margin: 0px;
+  padding: 0px;
+} */
+
+.gallery {
+  display: flex;
+  width:100%;
+  background-color: yellow;
+}
+
+
+.viz {
+  width: 25%;
+  border-color: black;
+  border-width: 2px;
+  border-style: double;
+}
+rect:hover {
+  fill: lightblue;
+}
